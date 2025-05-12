@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm interested in Machine Learning, AI and Software
+Hi my name is Lam, I am currently learning Computer Science and Data Science at QUT
 
 
 ## 🌐 Socials:
