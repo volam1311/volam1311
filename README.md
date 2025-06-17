@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi my name is Lam, I am currently learning Computer Science and Data Science at QUT. I am passionate about learning AI, Data Science and Software Engineering. Feel free to connect with me and share your interests.
+I'm currently studying Computer Science and Data Science at QUT. I'm passionate about exploring the world of Artificial Intelligence, Data Science, and Software Engineering. I enjoy building meaningful projects, learning new technologies, and solving real-world problems with code.
+
+Feel free to connect, collaborate, or just share your interests—let’s learn and grow together! 🚀
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://www.instagram.com/volam_1311/](https://www.instagram.com/volam_1311/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vo-phuc-lam-281034336/)
