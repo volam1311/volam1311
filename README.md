@@ -7,6 +7,12 @@ Feel free to connect, collaborate, or just share your interests—let’s learn 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://www.instagram.com/volam_1311/](https://www.instagram.com/volam_1311/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vo-phuc-lam-281034336/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/vophuclam1311/)
 
+# Education:
+Queensland University of Technology:
+ 
+Bachelor of Information Technology (major in Computer Science, Data Science)                                                                
+
+GPA: 7.0/7.0
 
 # 💻 Tech Stack
 
