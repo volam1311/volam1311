@@ -26,6 +26,7 @@ GPA: 7.0/7.0
   <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+ <img src="https://img.shields.io/badge/apex-1796c5?style=for-the-badge&logo=salesforce&logoColor=white" alt="apex" />
 </p>
 
 ## 🗄️ Databases:
@@ -56,6 +57,7 @@ GPA: 7.0/7.0
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
+ <img src="https://img.shields.io/badge/Salesforce-1796c5?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
 </p>
 
 # 📊 GitHub Stats:
