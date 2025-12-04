@@ -12,7 +12,7 @@ Queensland University of Technology:
  
 Bachelor of Information Technology (major in Computer Science, Data Science)                                                                
 
-GPA: 7.0/7.0
+GPA: 6.875/7.0
 
 # 💻 Tech Stack
 
