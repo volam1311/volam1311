@@ -60,10 +60,6 @@ GPA: 6.875/7.0
  <img src="https://img.shields.io/badge/Salesforce-1796c5?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
 </p>
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volam1311&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
