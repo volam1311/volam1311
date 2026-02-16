@@ -60,6 +60,8 @@ GPA: 6.875/7.0
  <img src="https://img.shields.io/badge/Salesforce-1796c5?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
 </p>
 
+## 🧮 Mathematics:
+<p align="center"> <img src="https://img.shields.io/badge/Calculus_I-1f6feb?style=for-the-badge&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/Calculus_II-1f6feb?style=for-the-badge&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/Linear_Algebra-6f42c1?style=for-the-badge&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/Probability-198754?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Statistics-198754?style=for-the-badge&logo=databricks&logoColor=white" /> </p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
