@@ -10,9 +10,7 @@ Feel free to connect, collaborate, or just share your interests—let’s learn 
 # Education:
 Queensland University of Technology:
  
-Bachelor of Information Technology (major in Computer Science, Data Science)                                                                
-
-GPA: 6.875/7.0
+Bachelor of Information Technology (major in Computer Science, Data Science)                                                                               GPA: 6.875/7.0
 
 # 💻 Tech Stack
 
