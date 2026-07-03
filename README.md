@@ -4,9 +4,12 @@ I'm currently studying Computer Science and Data Science at QUT. I'm passionate 
 Feel free to connect, collaborate, or just share your interests—let’s learn and grow together! 🚀
 
 # Education:
-Queensland University of Technology:
+
+### Queensland University of Technology:
  
-Bachelor of Information Technology (major in Computer Science, Data Science)                                                                               GPA: 6.917/7.0
+Bachelor of Information Technology (major in Computer Science, Data Science)                                                                               
+
+- GPA: 6.917/7.0
 
 # 💻 Tech Stack
 
