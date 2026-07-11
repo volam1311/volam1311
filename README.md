@@ -3,7 +3,7 @@ I'm currently studying Computer Science and Data Science at QUT. I'm passionate 
 
 Feel free to connect, collaborate, or just share your interests—let’s learn and grow together! 🚀
 
-Visit my personal website: [Website](https://volam.dev/projects)
+Visit my personal website: [Website](https://volam.dev/)
 
 # Education:
 
